@@ -1,0 +1,23 @@
+Udyam Digital
+Small businesses lose time on confusing quotes, paperwork and repeated follow-up calls. Udyam Digital brings discovery, quotation, document checks and tracking into one journey. This edited walkthrough uses actual captured prototype screens. All customer data is synthetic.
+
+1. A kirana gets a retail bundle
+For a kirana store, the advisor infers the retail segment and recommends connectivity plus point of sale, including UPI and card acceptance. It explains that WhatsApp Business requires an active GST registration. Provisional quantities and follow-up questions stay visible for the owner to confirm.
+
+2. A chain gets branch resilience
+For a six-outlet restaurant chain, the recommendation changes. Each branch gets primary connectivity, failover and a starting CCTV camera. POS counters support billing. The advisor explains deferred GST-dependent services and asks the customer to confirm quantities. Existing tools and migration requirements influence the advice.
+
+3. A transparent starting quote
+The office example includes fibre, five email accounts and five protected devices. The base is two thousand six hundred nineteen rupees. The illustrative eighteen percent tax brings the starting total to three thousand ninety rupees and forty-two paise. The full catalogue range, setup and contracts are shown. Final tariff and tax classification require confirmation.
+
+4. K02 passes documentary checks
+Consent comes before documents. Tesseract processes images locally, using deskew and watermark suppression. In the verified browser flow, all four K02 documents passed the registry, address and signatory consistency checks automatically. This is a synthetic documentary pass, not government identity or signing-authority verification.
+
+5. K11 is flagged for stale proof
+The K11 address proof is too old against the case reference date of July fifteenth, twenty twenty-six. The application flags stale address proof. A stale proof cannot be approved through the demo review action. Unreadable and inconsistent documents remain exceptions, and corrections never silently rewrite uncertain identifiers.
+
+6. Security and measured limits
+Customer tokens cannot approve, schedule or activate an application. A separate operator credential is required. Consent withdrawal deletes the journey and linked quotes. Tests passed on Windows and Ubuntu. Direct GST recognition is still limited: three of twelve on Windows and four of twelve on Ubuntu. These limits are published openly.
+
+Ready for a supervised demonstration
+The package includes the code, seven notebooks, architecture, privacy note and business case. Our next steps are broader OCR and language evaluation, production access controls and real operational integrations. Activation remains simulated, and business improvement targets require a pilot.

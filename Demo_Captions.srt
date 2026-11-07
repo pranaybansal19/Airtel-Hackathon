@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:18,526
+A digital journey for small-business onboarding.
+
+2
+00:00:18,526 --> 00:00:36,909
+Fibre plus POS / UPI. WhatsApp eligibility is explained.
+
+3
+00:00:36,909 --> 00:00:59,207
+Six outlets: connectivity, failover and CCTV at each site.
+
+4
+00:00:59,207 --> 00:01:22,859
+Office: Rs 2,619 base + Rs 471.42 assumed tax = Rs 3,090.42.
+
+5
+00:01:22,859 --> 00:01:45,381
+Four actual documents passed synthetic consistency checks.
+
+6
+00:01:45,381 --> 00:02:05,979
+Reference date: 15 July 2026. Stale proof requires replacement.
+
+7
+00:02:05,979 --> 00:02:28,187
+Separate operator credentials. Local processing. Explicit limits.
+
+8
+00:02:28,187 --> 00:02:47,658
+Code, notebooks, architecture, privacy note and business case included.
